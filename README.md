@@ -3,8 +3,6 @@
 > 2022 project @ NCTU Cryptography Engineering lecture  
 > Implemented with d3.v7.js
 
-- [presentation slides](https://docs.google.com/presentation/d/1V9gPNwmgsiPXvWkBwoKspWBpjZXFiv5CdPulSL6tWqs/edit?usp=sharing)
-
 <h1> Information </h1>
 
 - `graph_coloring.py` graph coloring algorithm
