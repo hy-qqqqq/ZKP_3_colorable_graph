@@ -5,6 +5,15 @@
 
 - [presentation slides](https://docs.google.com/presentation/d/1V9gPNwmgsiPXvWkBwoKspWBpjZXFiv5CdPulSL6tWqs/edit?usp=sharing)
 
+<h1> Information </h1>
+
+- `graph_coloring.py` graph coloring algorithm
+- `graph_puzzle.py` puzzle info
+- `solution_gen.py` generate correct data structure as input to d3.js
+- `zkp_d3.js` dynamic network graph with d3
+- `zkp_puzzle.js` puzzle info in d3 format
+- `zkp.html` main page
+
 <h1> Introduction </h1>
 
 <h2> Zero knowledge protocol </h2>
